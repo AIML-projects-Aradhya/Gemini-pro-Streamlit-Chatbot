@@ -2,14 +2,14 @@
 
 A lightweight Streamlit-based chatbot powered by Google's Gemini Pro model.
 
-## 🚀 Features
+##Features
 
 - Chat interface using Streamlit's `chat_input` and `chat_message`
 - Integrated with Google Generative AI (`gemini-pro`)
 - Environment variables managed via `.env` and `python-dotenv`
 - Custom UI config via `.streamlit/config.toml`
 
-## 🛠️ Setup Instructions
+##Setup Instructions
 
 1. **Clone this repository**
    ```bash
