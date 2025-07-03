@@ -1,7 +1,7 @@
 # 🧠 Chat With Gemini-Pro 
 
 A lightweight Streamlit-based chatbot powered by Google's Gemini Pro model.
-
+Click [here](https://geminipro-aibot.streamlit.app/) to acess the Streamlit Web App
 ##Features
 
 - Chat interface using Streamlit's `chat_input` and `chat_message`
